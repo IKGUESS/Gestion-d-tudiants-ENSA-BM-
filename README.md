@@ -82,7 +82,7 @@ You can track project progress on our **Taiga board**:
 🔗 [Taiga Project Link](https://tree.taiga.io/project/hajaarous-gestion-des-stagiaires/kanban)
 
 ## Architecture
-The **Internship Management System** follows a **Layered architecture**
+The **IStudent Management System ENSA_BM** follows a **MVC architecture**
 
 ## Project Contributors
 
